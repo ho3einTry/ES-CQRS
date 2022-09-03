@@ -9,6 +9,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modelDiagrams", "modelDiagrams", "{CF402F24-9E31-4A1D-8FB7-31D41ABAA4CC}"
 	ProjectSection(SolutionItems) = preProject
 		modelDiagrams\Structure.drawio = modelDiagrams\Structure.drawio
+		modelDiagrams\Endpoints.md = modelDiagrams\Endpoints.md
 	EndProjectSection
 EndProject
 Global

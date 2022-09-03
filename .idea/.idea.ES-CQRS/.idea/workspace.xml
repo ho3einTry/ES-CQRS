@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c853652f-85f9-4845-9c83-5219d4aa9329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modelDiagrams/Structure.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modelDiagrams/Endpoints.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ES-CQRS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ES-CQRS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ES-CQRS.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ES-CQRS.sln" afterDir="false" />
     </list>
@@ -23,21 +23,24 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EF3lg8s5TeNa3iFvuGHSIIxQtP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ES-CQRS.API: IIS Express">
     <configuration name="ES-CQRS.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/ES-CQRS.API/ES-CQRS.API.csproj" />
@@ -97,6 +100,8 @@
       <workItem from="1662178479936" duration="235000" />
       <workItem from="1662178732147" duration="861000" />
       <workItem from="1662180700110" duration="599000" />
+      <workItem from="1662182524007" duration="103000" />
+      <workItem from="1662196806944" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1662177952747</created>
@@ -105,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662177952747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Course Endpoint Model Structure in Structure.drawio">
+      <created>1662182603720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662182603720</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Add Course Endpoint Model Structure in Structure.drawio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Course Endpoint Model Structure in Structure.drawio" />
   </component>
 </project>
