@@ -6,6 +6,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{58DC3FFE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ES-CQRS.API", "src\ES-CQRS.API\ES-CQRS.API.csproj", "{F27510C1-2FE4-4EE4-8FB5-85AB1410D155}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modelDiagrams", "modelDiagrams", "{CF402F24-9E31-4A1D-8FB7-31D41ABAA4CC}"
+	ProjectSection(SolutionItems) = preProject
+		modelDiagrams\Structure.drawio = modelDiagrams\Structure.drawio
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
