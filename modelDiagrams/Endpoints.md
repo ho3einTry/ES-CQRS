@@ -1,12 +1,12 @@
-# Endpoints
+## Endpoints
 > ### Course:
 > 
-> ``Get All courses =>[GET] /course``
+> **Get All courses:** ``[GET] /course``
 > 
-> ``Get Course By Id =>[GET] /course/{id}``
+> **Get Course By Id:** ``[GET] /course/{id}``
 >
-> ``Add Course =>[POST] /course``
+> **Add Course:** ``[POST] /course``
 > 
-> ``Delete Course =>[DELET] /course``
+> **Delete Course:** ``[DELET] /course``
 > 
-> ``Update Course =>[PUT] /course``
+> **Update Course:** ``[PUT] /course``

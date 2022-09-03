@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "modelDiagrams", "modelDiagr
 		modelDiagrams\Endpoints.md = modelDiagrams\Endpoints.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Course", "Course", "{AE2D4DC1-307E-4B01-AF84-942546C68945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course.API", "src\Course\Course.API\Course.API.csproj", "{11BAE3BA-1A9D-41D2-BA3F-CB51A9361668}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +23,17 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F27510C1-2FE4-4EE4-8FB5-85AB1410D155} = {AD2899B7-8FBE-4090-B997-0160EA96D477}
+		{AE2D4DC1-307E-4B01-AF84-942546C68945} = {AD2899B7-8FBE-4090-B997-0160EA96D477}
+		{11BAE3BA-1A9D-41D2-BA3F-CB51A9361668} = {AE2D4DC1-307E-4B01-AF84-942546C68945}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F27510C1-2FE4-4EE4-8FB5-85AB1410D155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F27510C1-2FE4-4EE4-8FB5-85AB1410D155}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F27510C1-2FE4-4EE4-8FB5-85AB1410D155}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F27510C1-2FE4-4EE4-8FB5-85AB1410D155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BAE3BA-1A9D-41D2-BA3F-CB51A9361668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BAE3BA-1A9D-41D2-BA3F-CB51A9361668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BAE3BA-1A9D-41D2-BA3F-CB51A9361668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BAE3BA-1A9D-41D2-BA3F-CB51A9361668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
