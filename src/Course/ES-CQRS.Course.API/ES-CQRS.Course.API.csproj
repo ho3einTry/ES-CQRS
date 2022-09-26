@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\ES-CQRS.Seedwork\ES-CQRS.Seedwork.csproj" />
+      <ProjectReference Include="..\ES-CQRS.Course.Commands\ES-CQRS.Course.Commands.csproj" />
+      <ProjectReference Include="..\ES-CQRS.Course.Domian\ES-CQRS.Course.Domian.csproj" />
+      <ProjectReference Include="..\ES-CQRS.Infrastructure\ES-CQRS.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

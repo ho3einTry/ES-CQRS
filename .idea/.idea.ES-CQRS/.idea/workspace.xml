@@ -13,120 +13,255 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c853652f-85f9-4845-9c83-5219d4aa9329" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Course.API.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Course.API.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Course.API.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/Course.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/ES-CARS.Course.Domian.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Course.Domian.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Course.Domian.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Course.Domian.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/AddCourse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/DeleteCourse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/ES-CQRS.Course.Commands.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/ICommand.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/UpdateCourse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Command.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Command.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Command.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Command.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Command.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Command.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Command.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Command.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Command.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Commands.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Commands.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Commands.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/GetAllCourse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/GetCourse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/IQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/ES-CQRS.Course.Queries.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/ES-CQRS.Course.Queries.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/ES-CQRS.Course.Queries.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/DI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.API" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.API.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.API.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.API.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.Commands.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.Commands.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.Domian.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Course.Domian.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Infrastructure.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Infrastructure.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/ES-CQRS.Seedwork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/bin/Debug/net7.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CQRS.Course.API.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ref/ES-CQRS.Course.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/refint/ES-CQRS.Course.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/staticwebassets/msbuild.build.ES-CQRS.Course.API.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ES-CQRS.Course.API.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ES-CQRS.Course.API.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/ES-CQRS.Course.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/DeleteCourseCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/bin/Debug/net7.0/ES-CQRS.Course.Commands.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/bin/Debug/net7.0/ES-CQRS.Course.Commands.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/bin/Debug/net7.0/ES-CQRS.Course.Commands.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/bin/Debug/net7.0/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/bin/Debug/net7.0/ES-CQRS.Seedwork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ref/ES-CQRS.Course.Commands.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/refint/ES-CQRS.Course.Commands.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/bin/Debug/net7.0/ES-CQRS.Course.Domian.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/bin/Debug/net7.0/ES-CQRS.Course.Domian.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/bin/Debug/net7.0/ES-CQRS.Course.Domian.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ref/ES-CQRS.Course.Domian.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/refint/ES-CQRS.Course.Domian.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/ES-CQRS.Course.Domian.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/ES-CQRS.Course.Domian.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/ES-CQRS.Course.Domian.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/GetAllCourseQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/bin/Debug/net7.0/ES-CQRS.Course.Queries.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/bin/Debug/net7.0/ES-CQRS.Course.Queries.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/bin/Debug/net7.0/ES-CQRS.Course.Queries.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/bin/Debug/net7.0/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/bin/Debug/net7.0/ES-CQRS.Seedwork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ref/ES-CQRS.Course.Queries.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/refint/ES-CQRS.Course.Queries.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/ES-CQRS.Infrastructure.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/MediatRCommandDispatcher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/MediatRQueryDispatcher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/RedisCommandDispatcher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/RedisQueryDispatcher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/bin/Debug/net7.0/ES-CQRS.Infrastructure.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/bin/Debug/net7.0/ES-CQRS.Infrastructure.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/bin/Debug/net7.0/ES-CQRS.Infrastructure.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/bin/Debug/net7.0/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/bin/Debug/net7.0/ES-CQRS.Seedwork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Course.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Course.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Course.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Course.Infrastructure.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Course.Infrastructure.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Course.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ES-CQRS.Infrastructure.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/ref/ES-CQRS.Infrastructure.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/Debug/net7.0/refint/ES-CQRS.Infrastructure.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/ES-CQRS.Course.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/ES-CQRS.Course.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/ES-CQRS.Course.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/ES-CQRS.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/ES-CQRS.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/ES-CQRS.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/bin/Debug/net7.0/ES-CQRS.API" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/bin/Debug/net7.0/ES-CQRS.API.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/bin/Debug/net7.0/ES-CQRS.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/bin/Debug/net7.0/ES-CQRS.API.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/bin/Debug/net7.0/ES-CQRS.API.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/bin/Debug/net7.0/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/bin/Debug/net7.0/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/ES-CQRS.API.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/ES-CQRS.API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/ES-CQRS.API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/ES-CQRS.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/ES-CQRS.API.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/ES-CQRS.API.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/ref/ES-CQRS.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/refint/ES-CQRS.API.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/staticwebassets.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/staticwebassets/msbuild.build.ES-CQRS.API.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ES-CQRS.API.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ES-CQRS.API.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/ICommandDispatcher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/ICommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/IQueryDispatcher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/IQueryHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/bin/Debug/net7.0/ES-CQRS.Seedwork.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/bin/Debug/net7.0/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/bin/Debug/net7.0/ES-CQRS.Seedwork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ref/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/Debug/net7.0/refint/ES-CQRS.Seedwork.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/ES-CQRS.Seedwork.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/ES-CQRS.Seedwork.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/ES-CQRS.Seedwork.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ES-CQRS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ES-CQRS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ES-CQRS.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ES-CQRS.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/.dockerignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/Course.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/ES-CARS.Course.API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/obj/Debug/net7.0/Course.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/obj/Debug/net7.0/Course.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/obj/Debug/net7.0/Course.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/obj/Debug/net7.0/Course.API.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.GlobalUsings.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/obj/Debug/net7.0/Course.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course/Course.API/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/ES-CARS.Course.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/ES-CQRS.Course.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Course.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Course.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Course.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Course.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Course.API.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Course.API.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/Course.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/Course.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/Course.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/Course.API.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/Course.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/Course.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/Course.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/Debug/net7.0/ES-CARS.Course.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/ES-CARS.Course.API.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/Course.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/Course.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/ES-CARS.Course.Domian.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Course.Domian.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Course.Domian.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Course.Domian.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/ES-CQRS.Course.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Course.Domian.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/obj/ES-CQRS.Course.API.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/Course.Domian.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/Course.Domian.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/Course.Domian.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/Course.Domian.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/Course.Domian.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/Course.Domian.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/Course.Domian.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CARS.Course.Domian.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Course.Domian.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/ES-CARS.Course.Domian.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/Course.Domian.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/AddCourse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/UpdateCourseCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/DeleteCourse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/ES-CQRS.Course.Commands.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/ES-CQRS.Course.Commands.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/ICommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/ICommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/UpdateCourse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/AddCourseCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/Debug/net7.0/ES-CQRS.Course.Commands.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Commands.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/ES-CQRS.Course.Commands.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Commands/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/GetAllCourse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/GetCourse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/GetCourse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/IQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/ES-CQRS.Seedwork/IQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/Debug/net7.0/ES-CQRS.Course.Queries.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/ES-CQRS.Course.Queries.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/ES-CQRS.Course.Queries.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course/ES-CQRS.Course.Queries/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,9 +272,14 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/86deef3f36dc5d5d6c3ccd8f604c764ca81faf59dfc08b9877ef6661f198b8b9/WebApplicationBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e3c7215ad04b9b5aa36b85f289237c72f160ebcffc5a7498fcdd52f53173aa/EndpointRouteBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Course/ES-CARS.Course.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Course/ES-CARS.Course.Domian/Course.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Course/ES-CQRS.Course.Domian/Course.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/MediatRCommandDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/MediatRQueryDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/RedisCommandDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Course/ES-CQRS.Infrastructure/RedisQueryDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -160,11 +300,11 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.ES-CQRS.API: IIS Express">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Course.API: http">
     <configuration name="Corse.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Course/Corse.API/Corse.API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
@@ -211,7 +351,7 @@
       </method>
     </configuration>
     <configuration name="Course.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/ES-CARS.Course.API.csproj" />
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/ES-CQRS.Course.API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
       <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -226,7 +366,7 @@
       </method>
     </configuration>
     <configuration name="Course.API: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/ES-CARS.Course.API.csproj" />
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/ES-CQRS.Course.API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
       <option name="LAUNCH_PROFILE_NAME" value="http" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -241,7 +381,7 @@
       </method>
     </configuration>
     <configuration name="Course.API: https" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Course/ES-CARS.Course.API/ES-CARS.Course.API.csproj" />
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/Course/ES-CQRS.Course.API/ES-CQRS.Course.API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
       <option name="LAUNCH_PROFILE_NAME" value="https" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -316,6 +456,8 @@
       <workItem from="1662182524007" duration="103000" />
       <workItem from="1662196806944" duration="3321000" />
       <workItem from="1662270925198" duration="2749000" />
+      <workItem from="1663746540850" duration="11146000" />
+      <workItem from="1664005372002" duration="2981000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1662177952747</created>

@@ -1,0 +1,12 @@
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/bin/Debug/net7.0/ES-CQRS.Seedwork.deps.json
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/bin/Debug/net7.0/ES-CQRS.Seedwork.dll
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/bin/Debug/net7.0/ES-CQRS.Seedwork.pdb
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.csproj.AssemblyReference.cache
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.GeneratedMSBuildEditorConfig.editorconfig
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.AssemblyInfoInputs.cache
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.AssemblyInfo.cs
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.csproj.CoreCompileInputs.cache
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.dll
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/refint/ES-CQRS.Seedwork.dll
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ES-CQRS.Seedwork.pdb
+/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/Debug/net7.0/ref/ES-CQRS.Seedwork.dll

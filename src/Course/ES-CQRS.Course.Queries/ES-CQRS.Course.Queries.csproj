@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\ES-CQRS.Seedwork\ES-CQRS.Seedwork.csproj" />
+    </ItemGroup>
+
 </Project>

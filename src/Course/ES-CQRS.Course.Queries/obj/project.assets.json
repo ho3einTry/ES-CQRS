@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "ES-CQRS.Seedwork/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ES-CQRS.Seedwork.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ES-CQRS.Seedwork.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ES-CQRS.Seedwork/1.0.0": {
+      "type": "project",
+      "path": "../../ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj",
+      "msbuildProject": "../../ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "ES-CQRS.Seedwork >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/hossein/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj": {
+              "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ump5SqD3+72vqlyiWNmB9zIuF/8Juv8mQjC+IcGaUsU=",
+  "Source": "ES-CQRS.Course.API",
+  "BasePath": "_content/ES-CQRS.Course.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
