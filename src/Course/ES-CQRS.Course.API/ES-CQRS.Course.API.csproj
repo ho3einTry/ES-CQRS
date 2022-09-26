@@ -11,6 +11,7 @@
       <ProjectReference Include="..\..\ES-CQRS.Seedwork\ES-CQRS.Seedwork.csproj" />
       <ProjectReference Include="..\ES-CQRS.Course.Commands\ES-CQRS.Course.Commands.csproj" />
       <ProjectReference Include="..\ES-CQRS.Course.Domian\ES-CQRS.Course.Domian.csproj" />
+      <ProjectReference Include="..\ES-CQRS.Course.Queries\ES-CQRS.Course.Queries.csproj" />
       <ProjectReference Include="..\ES-CQRS.Infrastructure\ES-CQRS.Infrastructure.csproj" />
     </ItemGroup>
 

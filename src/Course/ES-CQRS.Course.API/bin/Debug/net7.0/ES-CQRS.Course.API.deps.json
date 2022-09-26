@@ -10,6 +10,7 @@
         "dependencies": {
           "ES-CQRS.Course.Commands": "1.0.0",
           "ES-CQRS.Course.Domian": "1.0.0",
+          "ES-CQRS.Course.Queries": "1.0.0",
           "ES-CQRS.Infrastructure": "1.0.0",
           "ES-CQRS.Seedwork": "1.0.0"
         },
@@ -28,6 +29,15 @@
       "ES-CQRS.Course.Domian/1.0.0": {
         "runtime": {
           "ES-CQRS.Course.Domian.dll": {}
+        }
+      },
+      "ES-CQRS.Course.Queries/1.0.0": {
+        "dependencies": {
+          "ES-CQRS.Course.Domian": "1.0.0",
+          "ES-CQRS.Seedwork": "1.0.0"
+        },
+        "runtime": {
+          "ES-CQRS.Course.Queries.dll": {}
         }
       },
       "ES-CQRS.Infrastructure/1.0.0": {
@@ -57,6 +67,11 @@
       "sha512": ""
     },
     "ES-CQRS.Course.Domian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ES-CQRS.Course.Queries/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

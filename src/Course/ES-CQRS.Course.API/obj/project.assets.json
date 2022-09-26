@@ -25,6 +25,20 @@
           "bin/placeholder/ES-CQRS.Course.Domian.dll": {}
         }
       },
+      "ES-CQRS.Course.Queries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ES-CQRS.Course.Domian": "1.0.0",
+          "ES-CQRS.Seedwork": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ES-CQRS.Course.Queries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ES-CQRS.Course.Queries.dll": {}
+        }
+      },
       "ES-CQRS.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -61,6 +75,11 @@
       "path": "../ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj",
       "msbuildProject": "../ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj"
     },
+    "ES-CQRS.Course.Queries/1.0.0": {
+      "type": "project",
+      "path": "../ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
+      "msbuildProject": "../ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj"
+    },
     "ES-CQRS.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../ES-CQRS.Infrastructure/ES-CQRS.Infrastructure.csproj",
@@ -76,6 +95,7 @@
     "net7.0": [
       "ES-CQRS.Course.Commands >= 1.0.0",
       "ES-CQRS.Course.Domian >= 1.0.0",
+      "ES-CQRS.Course.Queries >= 1.0.0",
       "ES-CQRS.Infrastructure >= 1.0.0",
       "ES-CQRS.Seedwork >= 1.0.0"
     ]
@@ -110,6 +130,9 @@
             },
             "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj": {
               "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj"
+            },
+            "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj": {
+              "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj"
             },
             "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Infrastructure/ES-CQRS.Infrastructure.csproj": {
               "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Infrastructure/ES-CQRS.Infrastructure.csproj"

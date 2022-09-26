@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "ES-CQRS.Course.Domian/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ES-CQRS.Course.Domian.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ES-CQRS.Course.Domian.dll": {}
+        }
+      },
       "ES-CQRS.Seedwork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "ES-CQRS.Course.Domian/1.0.0": {
+      "type": "project",
+      "path": "../ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj",
+      "msbuildProject": "../ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj"
+    },
     "ES-CQRS.Seedwork/1.0.0": {
       "type": "project",
       "path": "../../ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ES-CQRS.Course.Domian >= 1.0.0",
       "ES-CQRS.Seedwork >= 1.0.0"
     ]
   },
@@ -51,6 +67,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj": {
+              "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj"
+            },
             "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj": {
               "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj"
             }

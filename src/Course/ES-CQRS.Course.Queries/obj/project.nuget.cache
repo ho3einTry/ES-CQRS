@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "urjGbNjYnmfLrQsWK0rVTUOHfLIfaWwwR8wMkX0J1H8CUW/PCD0AIuMfMjBbU36pPvPxjwlbD6lMg89iun+DFg==",
+  "dgSpecHash": "xi8TxXb35AhIz8ehyL/Ll7YtSAAsQKRILNRQQ5bVQdPvJrba55xOnY7fCDgPhpJx0E02rRr9Picl2jDT2gtGjQ==",
   "success": true,
   "projectFilePath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
   "expectedPackageFiles": [],
