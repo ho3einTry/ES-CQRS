@@ -9,7 +9,6 @@ public static class DI
 {
     public static void AddDI(this IServiceCollection services)
     {
-        services.AddSingleton<ICommandDispatcher>(new MediatRCommandDispatcher());
-        services.AddSingleton<IQueryDispatcher>(new MediatRQueryDispatcher());
+        services.AddCommandDispatcher();
     }
 }

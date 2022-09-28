@@ -1,15 +1,20 @@
 using ES_CQRS.Seedwork;
+using MediatR;
 
 namespace ES_CQRS.Infrastructure;
 
 public class MediatRCommandDispatcher : ICommandDispatcher
 {
-    public MediatRCommandDispatcher()
+    private readonly IMediator _mediator;
+
+    public MediatRCommandDispatcher(IMediator mediator)
     {
-        
+        _mediator = mediator;
     }
-    public Task SendAsync<TCommand>(TCommand command, CancellationToken cancellationToken = default)
+
+    public async Task SendAsync<TCommand>(TCommand command, CancellationToken cancellationToken = default)
+        where TCommand : class, ICommand
     {
-        throw new NotImplementedException();
+        await _mediator.Publish(command, cancellationToken);
     }
 }

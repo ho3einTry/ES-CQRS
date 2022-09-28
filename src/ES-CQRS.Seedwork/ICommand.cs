@@ -1,7 +1,8 @@
+using MediatR;
+
 namespace ES_CQRS.Seedwork;
 
 //Marker
-public interface ICommand
+public interface ICommand : INotification
 {
-    
 }

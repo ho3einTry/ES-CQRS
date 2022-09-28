@@ -1,6 +1,6 @@
 namespace ES_CQRS.Infrastructure;
 
-public class AddQueryDispatcher
+public class QueryDispatcherExtension
 {
     
 }
