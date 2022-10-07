@@ -74,6 +74,7 @@
       },
       "ES-CQRS.Infrastructure/1.0.0": {
         "dependencies": {
+          "ES-CQRS.Course.Commands": "1.0.0",
           "ES-CQRS.Seedwork": "1.0.0",
           "MediatR": "10.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "ES-CQRS.Infrastructure/1.0.0": {
         "dependencies": {
+          "ES-CQRS.Course.Commands": "1.0.0",
           "ES-CQRS.Seedwork": "1.0.0",
           "MediatR": "10.0.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1"
@@ -55,6 +56,14 @@
           }
         }
       },
+      "ES-CQRS.Course.Commands/1.0.0": {
+        "dependencies": {
+          "ES-CQRS.Seedwork": "1.0.0"
+        },
+        "runtime": {
+          "ES-CQRS.Course.Commands.dll": {}
+        }
+      },
       "ES-CQRS.Seedwork/1.0.0": {
         "dependencies": {
           "MediatR": "10.0.1",
@@ -99,6 +108,11 @@
       "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "ES-CQRS.Course.Commands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "ES-CQRS.Seedwork/1.0.0": {
       "type": "project",

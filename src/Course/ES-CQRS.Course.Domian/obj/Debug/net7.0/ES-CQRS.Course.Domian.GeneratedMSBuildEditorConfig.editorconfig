@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ES-CQRS.Course.Domian
-build_property.ProjectDir = /home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/
+build_property.ProjectDir = /home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/

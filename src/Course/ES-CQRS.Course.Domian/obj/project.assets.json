@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj",
+      "projectUniqueName": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj",
       "projectName": "ES-CQRS.Course.Domian",
-      "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj",
+      "projectPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj",
       "packagesPath": "/home/hossein/.nuget/packages/",
-      "outputPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/",
+      "outputPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hossein/.nuget/NuGet/NuGet.Config"

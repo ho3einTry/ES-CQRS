@@ -10,3 +10,15 @@
 /home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/refint/ES-CQRS.Course.Domian.dll
 /home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.pdb
 /home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ref/ES-CQRS.Course.Domian.dll
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/bin/Debug/net7.0/ES-CQRS.Course.Domian.deps.json
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/bin/Debug/net7.0/ES-CQRS.Course.Domian.dll
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/bin/Debug/net7.0/ES-CQRS.Course.Domian.pdb
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.csproj.AssemblyReference.cache
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.GeneratedMSBuildEditorConfig.editorconfig
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.AssemblyInfoInputs.cache
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.AssemblyInfo.cs
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.csproj.CoreCompileInputs.cache
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.dll
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/refint/ES-CQRS.Course.Domian.dll
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ES-CQRS.Course.Domian.pdb
+/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/obj/Debug/net7.0/ref/ES-CQRS.Course.Domian.dll

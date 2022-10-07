@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S1YddxiqQDjcjtIqXS0p8MB4q5RpW3W4CO7fyqiXXZKl9jWkFdlfKbqiTvh/PKTxYZq7svoeBqBjybpMnaugVA==",
+  "dgSpecHash": "y7CAGqAyVK46zqSTIs+i9fL+VR4kZnGS/17ArVGiCqo/zQiImLDYJZuGt48/7P/P6ACaSsai4d3j8KLNzWrUCQ==",
   "success": true,
-  "projectFilePath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
+  "projectFilePath": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
   "expectedPackageFiles": [
     "/home/hossein/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
     "/home/hossein/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"

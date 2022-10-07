@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
+      "projectUniqueName": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
       "projectName": "ES-CQRS.Course.Queries",
-      "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
+      "projectPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Queries/ES-CQRS.Course.Queries.csproj",
       "packagesPath": "/home/hossein/.nuget/packages/",
-      "outputPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Queries/obj/",
+      "outputPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Queries/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hossein/.nuget/NuGet/NuGet.Config"
@@ -130,11 +130,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj": {
-              "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj"
+            "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj": {
+              "projectPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/Course/ES-CQRS.Course.Domian/ES-CQRS.Course.Domian.csproj"
             },
-            "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj": {
-              "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj"
+            "/home/hossein/RiderProjects/github/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj": {
+              "projectPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj"
             }
           }
         }

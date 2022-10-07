@@ -8,19 +8,27 @@
           "MediatR.Contracts": "1.0.1"
         },
         "compile": {
-          "lib/netstandard2.1/MediatR.dll": {}
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/MediatR.dll": {}
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MediatR.Contracts/1.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -69,11 +77,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj",
+      "projectUniqueName": "/home/hossein/RiderProjects/github/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj",
       "projectName": "ES-CQRS.Seedwork",
-      "projectPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj",
+      "projectPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/ES-CQRS.Seedwork/ES-CQRS.Seedwork.csproj",
       "packagesPath": "/home/hossein/.nuget/packages/",
-      "outputPath": "/home/hossein/RiderProjects/github/ho3einTry/ES-CQRS/src/ES-CQRS.Seedwork/obj/",
+      "outputPath": "/home/hossein/RiderProjects/github/ES-CQRS/src/ES-CQRS.Seedwork/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hossein/.nuget/NuGet/NuGet.Config"
